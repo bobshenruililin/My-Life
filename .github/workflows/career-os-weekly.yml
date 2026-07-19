@@ -1,0 +1,33 @@
+name: Career OS weekly report
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"  # Mondays 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r tools/career_os/requirements.txt
+      - name: Generate report + plan + ICS
+        run: |
+          cd tools/career_os
+          PYTHONPATH=. python -m career_os report
+          PYTHONPATH=. python -m career_os summer-plan
+          PYTHONPATH=. python -m career_os ics
+          PYTHONPATH=. python -m career_os deadlines --within-days 45 --urls | tee state/deadlines_snapshot.txt
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: career-os-weekly
+          path: |
+            tools/career_os/state/weekly_report.md
+            tools/career_os/state/summer_2027_plan.md
+            tools/career_os/state/deadlines.ics
+            tools/career_os/state/deadlines_snapshot.txt

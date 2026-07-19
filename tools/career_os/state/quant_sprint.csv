@@ -1,0 +1,13 @@
+week,focus,problems_done,hours,kill_signal,notes
+1,probability,,,,"conditional probability, Bayes, combinatorics, EV"
+2,probability,,,,
+3,coding,,,,"Python, NumPy/pandas, simulations, tests"
+4,coding,,,,reproducible repo milestone
+5,stats,,,,"regression, CV, leakage, overfitting"
+6,stats_audit,,,,audit a flawed analysis
+7,trading_reasoning,,,,"market making, adverse selection, inventory"
+8,trading_reasoning,,,,
+9,interview_sim,,,,"mental math, probability aloud, coding w/o autocomplete"
+10,interview_sim,,,,
+11,proof_project,,,,ONE project only
+12,decide,,,,continue quant only if enjoyment+speed+signal
