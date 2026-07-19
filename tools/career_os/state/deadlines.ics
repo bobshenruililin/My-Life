@@ -1,0 +1,543 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Career OS//HKU Law//EN
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Freshfields — Hong Kong Summer Internship Programme 20
+ 27
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:freshfields-hk-summer-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.fre
+ shfields.com/en/your-career/hong-kong/early-careers/hong-kong-training-con
+ tract\nPublished dates. Apply only if eligibility matches years-to-graduat
+ ion.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Freshfields application
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:freshfields-hk-summer-2027-prep@career-os
+DESCRIPTION:https://www.freshfields.com/en/your-career/hong-kong/early-car
+ eers/hong-kong-training-contract
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Freshfields — London-Asia Trainee Associate Internship
+  2027
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:freshfields-london-asia-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.f
+ reshfields.com/en/your-career/hong-kong/early-careers/london-asia-trainee-
+ associate-program\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Freshfields application
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:freshfields-london-asia-2027-prep@career-os
+DESCRIPTION:https://www.freshfields.com/en/your-career/hong-kong/early-car
+ eers/london-asia-trainee-associate-program
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Latham & Watkins — Hong Kong Summer Vacation Scheme 20
+ 27
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+UID:latham-hk-vs-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.lwc
+ areers.com/en/beginning-your-legal-career/china/hong-kong-summer-vacation-
+ scheme\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Latham & Watkins application
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+UID:latham-hk-vs-2027-prep@career-os
+DESCRIPTION:https://www.lwcareers.com/en/beginning-your-legal-career/china
+ /hong-kong-summer-vacation-scheme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Reed Smith — Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+UID:reedsmith-hk-summer-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.ree
+ dsmith.com/join-us/asia/hong-kong/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Reed Smith application
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+UID:reedsmith-hk-summer-2027-prep@career-os
+DESCRIPTION:https://www.reedsmith.com/join-us/asia/hong-kong/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Reed Smith — Winter Vacation Scheme 2026/27
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+UID:reedsmith-hk-winter-2026@career-os
+DESCRIPTION:Priority: critical\nLaidlaw conflict: none\nURL: https://www.r
+ eedsmith.com/join-us/asia/hong-kong/\nLaidlaw-compatible winter timing.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Reed Smith application
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:reedsmith-hk-winter-2026-prep@career-os
+DESCRIPTION:https://www.reedsmith.com/join-us/asia/hong-kong/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Cleary Gottlieb — Winter Vacation Scheme 2026/27
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:cleary-hk-winter-2026@career-os
+DESCRIPTION:Priority: critical\nLaidlaw conflict: none\nURL: https://www.c
+ learygottlieb.com/locations/hong-kong/legal-landing-page/vacation-schemes\
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Cleary Gottlieb application
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+UID:cleary-hk-winter-2026-prep@career-os
+DESCRIPTION:https://www.clearygottlieb.com/locations/hong-kong/legal-landi
+ ng-page/vacation-schemes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Slaughter and May — Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:slaughter-hk-vs-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.sla
+ ughterandmay.com/careers/hong-kong-careers/\nRolling\; submit by 31 Dec 20
+ 26. Broader eligibility than pure penultimate.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Slaughter and May application
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:slaughter-hk-vs-2027-prep@career-os
+DESCRIPTION:https://www.slaughterandmay.com/careers/hong-kong-careers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: CMS — Hong Kong Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:cms-hk-vs-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: possible\nURL: https://cms
+ emergingtalent.com/programmes/international/hong-kong/\nOnly 1 week in Jul
+ y — may negotiate around LiA if LiA starts late June.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): CMS application
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:cms-hk-vs-2027-prep@career-os
+DESCRIPTION:https://cmsemergingtalent.com/programmes/international/hong-ko
+ ng/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: CMS — 2028 Training Contract
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+UID:cms-hk-tc-2028@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: none\nURL: https://cmsemer
+ gingtalent.com/programmes/international/hong-kong/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): CMS application
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+UID:cms-hk-tc-2028-prep@career-os
+DESCRIPTION:https://cmsemergingtalent.com/programmes/international/hong-ko
+ ng/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: A&O Shearman — Hong Kong Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+UID:aos-hk-vs-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://careers
+ .aoshearman.com/en/hong-kong-summer-vacation-scheme\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): A&O Shearman application
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+UID:aos-hk-vs-2027-prep@career-os
+DESCRIPTION:https://careers.aoshearman.com/en/hong-kong-summer-vacation-sc
+ heme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Linklaters — Hong Kong Summer Vacation Schemes 2027
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+UID:linklaters-hk-vs-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.lin
+ klaters.com/en-hk/careers/early-careers/university-and-graduate-opportunit
+ ies/vacation-schemes\nDates expected from prior cycle pattern\; verify whe
+ n published.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Linklaters application
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:linklaters-hk-vs-2027-prep@career-os
+DESCRIPTION:https://www.linklaters.com/en-hk/careers/early-careers/univers
+ ity-and-graduate-opportunities/vacation-schemes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: King & Wood Mallesons — 2027 Hong Kong Clerkship / 202
+ 9 TC
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+UID:kwm-hk-clerkship-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.k
+ ingandwood.com/hk/en/careers/graduates/graduates-hong-kong/applications.ht
+ ml\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): King & Wood Mallesons application
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+UID:kwm-hk-clerkship-2027-prep@career-os
+DESCRIPTION:https://www.kingandwood.com/hk/en/careers/graduates/graduates-
+ hong-kong/applications.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Deacons — Internship Programme 2027
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+UID:deacons-internship-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://careers
+ .deacons.com/careers/students-and-graduates/internship-programme/\nExpecte
+ d from prior Nov-Jan window\; verify.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Deacons application
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+UID:deacons-internship-2027-prep@career-os
+DESCRIPTION:https://careers.deacons.com/careers/students-and-graduates/int
+ ernship-programme/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Baker McKenzie — Clerkship Programme 2027
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:bmk-clerkship-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://hkg-gra
+ duates.bakermckenzie.com/programmes/summer-clerkship-programme/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Baker McKenzie application
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+UID:bmk-clerkship-2027-prep@career-os
+DESCRIPTION:https://hkg-graduates.bakermckenzie.com/programmes/summer-cler
+ kship-programme/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Herbert Smith Freehills Kramer — Hong Kong Summer Vaca
+ tion Scheme 2027
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+UID:hsf-hk-vs-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://careers
+ .hsfkramer.com/global/en/hong-kong/early-careers/vacation-schemes\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Herbert Smith Freehills Kramer application
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+UID:hsf-hk-vs-2027-prep@career-os
+DESCRIPTION:https://careers.hsfkramer.com/global/en/hong-kong/early-career
+ s/vacation-schemes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Hogan Lovells — Hong Kong Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+UID:hogan-hk-vs-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.h
+ oganlovells.com/en/global-careers/careers-in-china/careers-in-hong-kong\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Hogan Lovells application
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+UID:hogan-hk-vs-2027-prep@career-os
+DESCRIPTION:https://www.hoganlovells.com/en/global-careers/careers-in-chin
+ a/careers-in-hong-kong
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Norton Rose Fulbright — Summer Vacation Scheme 2027
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+UID:nrf-hk-vs-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.n
+ ortonrosefulbright.com/en-hk/graduates/apply\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Norton Rose Fulbright application
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+UID:nrf-hk-vs-2027-prep@career-os
+DESCRIPTION:https://www.nortonrosefulbright.com/en-hk/graduates/apply
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: White & Case — Hong Kong Summer Internship 2027
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+UID:whitecase-hk-summer-2027@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.whi
+ tecase.com/careers/locations/hong-kong/early-careers/our-offer/internship-
+ programs\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): White & Case application
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:whitecase-hk-summer-2027-prep@career-os
+DESCRIPTION:https://www.whitecase.com/careers/locations/hong-kong/early-ca
+ reers/our-offer/internship-programs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Gibson Dunn — Hong Kong Summer Vacation Scheme
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+UID:gibson-hk-vs@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.gib
+ sondunn.com/careers/law-students/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Gibson Dunn application
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+UID:gibson-hk-vs-prep@career-os
+DESCRIPTION:https://www.gibsondunn.com/careers/law-students/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Eversheds Sutherland — Hong Kong Summer Vacation Schem
+ e
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+UID:eversheds-hk-vs@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.e
+ versheds-sutherland.com/en/asia/careers/careers-page/students-and-recent-g
+ raduates/vacation-scheme\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Eversheds Sutherland application
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+UID:eversheds-hk-vs-prep@career-os
+DESCRIPTION:https://www.eversheds-sutherland.com/en/asia/careers/careers-p
+ age/students-and-recent-graduates/vacation-scheme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: DLA Piper — Hong Kong Summer Internship 2027
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:dla-hk-summer-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://caree
+ rs.dlapiper.com/early-careers/asia-pacific/hk/summer-internship.html\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): DLA Piper application
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:dla-hk-summer-2027-prep@career-os
+DESCRIPTION:https://careers.dlapiper.com/early-careers/asia-pacific/hk/sum
+ mer-internship.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Stephenson Harwood — Hong Kong Vacation Scheme
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+UID:stephenson-hk-vs@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.s
+ tephensonharwood.com/careers/early-careers/early-careers-hong-kong/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Stephenson Harwood application
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+UID:stephenson-hk-vs-prep@career-os
+DESCRIPTION:https://www.stephensonharwood.com/careers/early-careers/early-
+ careers-hong-kong/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Ashurst / Ashurst Perkins Coie — Hong Kong Vacation Sc
+ heme
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+UID:ashurst-hk-vs@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.a
+ shurstperkinscoie.com/en/careers/students-and-graduates/\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Ashurst / Ashurst Perkins Coie application
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+UID:ashurst-hk-vs-prep@career-os
+DESCRIPTION:https://www.ashurstperkinscoie.com/en/careers/students-and-gra
+ duates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Bird & Bird — Summer Internship 2027 / TC 2029
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+UID:birds-hk-summer@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.t
+ wobirds.com/en/careers/china/early-careers\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Bird & Bird application
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+UID:birds-hk-summer-prep@career-os
+DESCRIPTION:https://www.twobirds.com/en/careers/china/early-careers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Mayer Brown JSM — Summer Internship / Training Contrac
+ t
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+UID:mayerbrown-hk@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.j
+ sm.com/early-careers\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Mayer Brown JSM application
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+UID:mayerbrown-hk-prep@career-os
+DESCRIPTION:https://www.jsm.com/early-careers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Pinsent Masons — Hong Kong Summer Vacation Placement
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+UID:pinsent-hk-svp@career-os
+DESCRIPTION:Priority: high\nLaidlaw conflict: likely\nURL: https://www.pin
+ sentmasons.com/careers/early-talent/china-hong-kong/summer-vacation-placem
+ ent\nFirst-year eligible — unusually useful if still early in programme.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Pinsent Masons application
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+UID:pinsent-hk-svp-prep@career-os
+DESCRIPTION:https://www.pinsentmasons.com/careers/early-talent/china-hong-
+ kong/summer-vacation-placement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Optiver — FutureFocus Singapore Trading & Research
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+UID:optiver-futurefocus-2026@career-os
+DESCRIPTION:Priority: critical\nLaidlaw conflict: none\nURL: https://www.o
+ ptiver.com/join-us/jobs/institutional-sales-and-trading/singapore/futurefo
+ cus-singapore-trading-and-research/\nDEADLINE 31 Jul 2026 — apply immedi
+ ately if eligible. Can lead to 2027 internship offer.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: SFC — Summer Internship Programme
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+UID:sfc-summer-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.s
+ fc.hk/en/Career/Why-the-SFC/Join-us-as-an-Intern/Summer-and-Winter-Interns
+ hip-Programme\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): SFC application
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+UID:sfc-summer-2027-prep@career-os
+DESCRIPTION:https://www.sfc.hk/en/Career/Why-the-SFC/Join-us-as-an-Intern/
+ Summer-and-Winter-Internship-Programme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: HYAB + Cyberport/HKSTP — Youth Start-up Internship Pro
+ gramme 2027
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+UID:hyab-ysip-2027@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: likely\nURL: https://www.y
+ dc.gov.hk/en/programmes/ip/ip_ysip.html\nPublic-funding concurrency restri
+ ctions\; may conflict with LiA continuous commitment.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): HYAB + Cyberport/HKSTP application
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+UID:hyab-ysip-2027-prep@career-os
+DESCRIPTION:https://www.ydc.gov.hk/en/programmes/ip/ip_ysip.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Department of Justice — Summer Internship Programme - 
+ Law
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+UID:doj-summer-2027@career-os
+DESCRIPTION:Priority: low\nLaidlaw conflict: likely\nURL: https://www.doj.
+ gov.hk/en/career/summer.html\nLikely eligibility/year conflict early\; Can
+ tonese required.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Department of Justice application
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+UID:doj-summer-2027-prep@career-os
+DESCRIPTION:https://www.doj.gov.hk/en/career/summer.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Civil Service Bureau — Post-Secondary Student Summer I
+ nternship Programme
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:csb-pssip-2027@career-os
+DESCRIPTION:Priority: low\nLaidlaw conflict: likely\nURL: https://www.csb.
+ gov.hk/english/admin/appoint/782.html\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Civil Service Bureau application
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+UID:csb-pssip-2027-prep@career-os
+DESCRIPTION:https://www.csb.gov.hk/english/admin/appoint/782.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: Des Voeux Chambers — Mini-pupillage
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+UID:dvc-mini-pupillage@career-os
+DESCRIPTION:Priority: low\nLaidlaw conflict: possible\nURL: https://www.dv
+ c.hk/pupillage/mini-pupillage\nOnly if Bar track remains live. Winter dead
+ line ~15 Oct.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): Des Voeux Chambers application
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+UID:dvc-mini-pupillage-prep@career-os
+DESCRIPTION:https://www.dvc.hk/pupillage/mini-pupillage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEADLINE: A&O Shearman — First-Year Program Hong Kong
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+UID:aos-first-year-hk@career-os
+DESCRIPTION:Priority: medium\nLaidlaw conflict: none\nURL: https://careers
+ .aoshearman.com/en/hong-kong-first-year-program\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREP (14d): A&O Shearman application
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+UID:aos-first-year-hk-prep@career-os
+DESCRIPTION:https://careers.aoshearman.com/en/hong-kong-first-year-program
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+{
+  "name": "Shen Ruililin",
+  "programme": "HKU BSocSc(Govt&Laws)&LLB (transfer)",
+  "entry_gpa_signal": "4.09/4.30 (pre-law)",
+  "wedge": "regulated technology — health AI and digital finance through regulation, transaction, and capital formation",
+  "proofs": {
+    "health_ai": "MIT HK Innovation Node Youth Fellow — LLM healthcare chatbot prototype (MEDocGPT)",
+    "systems": "HKUST computational quantum system models (Qiskit)",
+    "observatory": "Evaluated DeepMind GraphCast integration for HK Observatory",
+    "rationality": "Asian Spring Program on Rationality — game theory, Bayesian inference, Fermi estimation",
+    "writing": "1st / 1400+ HK Young Writers' Award"
+  },
+  "laidlaw_lia": {
+    "programme": "Laidlaw Scholars Leadership in Action",
+    "status": "committed",
+    "start": "2027-06-15",
+    "end": "2027-07-26",
+    "duration_weeks": 6,
+    "notes": "ASSUMED mid-summer block — REPLACE with exact Horizons dates. Treat as immersive full-time. Do not double-book overlapping full-time internships without written approval."
+  },
+  "languages": {
+    "english": "native/professional",
+    "mandarin": "native",
+    "cantonese": "professional working (verify)"
+  },
+  "capital_ledgers": ["credential_reserve", "survival_reserve", "mobility_fund", "core_portfolio", "asymmetric_research"]
+}
